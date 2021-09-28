@@ -3,7 +3,7 @@
     padding:0;
     margin:0;
     /* para ver el borde de todos los elementos, asi se vé la estructura, se quita al final */
-    /* border:solid 1px #000 */
+     /* border:solid 1px #000  */
 
 }
 body{
@@ -68,7 +68,7 @@ header #menu ul #logo{
 #main-container header main{
     /* margin 0 (arriba y abajo) auto (esto permite que el navegador calcule automaticamente la parte de los lados y la centre) */
     margin:0 auto;
-    width: 1200px;
+    width: 1000px;
 }
 
 /* modifica el div (mi primera página) y lo centra en el medio */
